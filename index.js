@@ -1,3 +1,3 @@
-exports.printMsg = function() {
-  console.log('This is a message from the demo package');
+exports.printGreeting = function(name) {
+  console.log(`Hello ${name}`);
 }
