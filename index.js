@@ -6,8 +6,6 @@ function printGreeting(name)
   console.log(`Hello ${name}`);
 };
 
-const printGreeting = printGreeting;
-
-exports = {
+module.exports = {
   printGreeting
 };
