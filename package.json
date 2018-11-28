@@ -1,6 +1,6 @@
 {
   "name": "diguzim-package-testing",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "This is a simple test for creating npm packages",
   "main": "index.js",
   "scripts": {

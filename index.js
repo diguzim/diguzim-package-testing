@@ -1,3 +1,11 @@
-exports.printGreeting = function(name) {
+/**
+ * @param  {string} name
+ */
+function printGreeting(name)
+{
   console.log(`Hello ${name}`);
-}
+};
+
+exports = {
+  printGreeting
+};

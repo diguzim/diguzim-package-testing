@@ -13,4 +13,6 @@ npm install diguzim-package-testing
 ## Usage
 ```javascript
 const diguzim = require("diguzim-package-testing");
+
+diguzim.printGreeting("Rodrigo");
 ```
